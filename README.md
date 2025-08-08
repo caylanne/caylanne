@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **caylanne/caylanne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,13 +19,14 @@ Here are some ideas to get you started:
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=caylanne&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=caylanne&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=caylanne&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
 ###
 
-<img align="right" height="150" src="https://www.behance.net/gallery/55389655/gif-Collection-Two/modules/326567415"  />
+<br clear="both">
+
+<img align="right" height="150" src=""  />
 
 ###
 
@@ -50,3 +51,4 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/caylanne/caylanne/output/snake.svg" alt="Snake animation" />
 
 ###
+
